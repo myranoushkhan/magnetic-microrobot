@@ -26,15 +26,15 @@ The microrobot was modeled in **SolidWorks** as a multi-component assembly, with
 
 ### Full Assembly
 
-![Microrobot Assembly](images/microrobot-assembly.png)
+![Microrobot Assembly](isometric-view.png)
 
 ### Exploded Assembly
 
-![Exploded Microrobot](images/microrobot-exploded.png)
+![Exploded Microrobot](isometric-exploded-view.png)
 
-### Engineering Drawing
+### Exploded Drawing
 
-![Microrobot Drawing](images/microrobot-drawing.png)
+![Microrobot Drawing](Exploded-view-drawing.pdf)
 
 ---
 
@@ -61,13 +61,13 @@ The model provides an initial framework for evaluating **trajectory convergence 
 
 The trajectory plot visualizes the microrobot's movement from its initial position toward the target under simulated navigation disturbances.
 
-![Microrobot Navigation Path](images/microrobot-path.png)
+![Microrobot Navigation Path](path-plot.png)
 
 ### Distance-to-Target Analysis
 
 Distance-to-target analysis tracks navigation progress over time and provides a quantitative measure of convergence toward the target region.
 
-![Distance to Target](images/distance-to-target.png)
+![Distance to Target](distance-plot.png)
 
 ---
 
